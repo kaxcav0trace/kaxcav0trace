@@ -20,7 +20,15 @@
 
 <br>
 
-<h2 align="center"> 🏅 The Microsoft "Exodia" </h2>
+<h2 align="center"> 🏆 Hall of Fame & Certifications </h2>
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=kaxcav0tracer&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=4" alt="Trophies" />
+  </a>
+</div>
+
+<br>
+
 <div align="center">
   <img src="https://img.shields.io/badge/AZ--500-Azure_Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SC--200-SecOps_Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -64,7 +72,7 @@
         <img src="https://img.shields.io/badge/Wazuh-00A9E5?style=flat-square&logo=wazuh&logoColor=white" />
         <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
         <br><br>
-        <p>Single Pane of Glass unificando telemetria de infraestrutura (Zabbix) e segurança (Wazuh). Eliminação de silos no Blue Team.</p>
+        <p>Single Pane of Glass unificando telemetria de infraestrutura e segurança. Eliminação de silos no Blue Team.</p>
       </td>
       <td width="50%" align="center">
         <h3><a href="https://github.com/kaxcav0tracer/secops-automation-suite-v2">⚡ Sentinel Automation Suite</a></h3>
@@ -73,7 +81,7 @@
         <img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
         <br><br>
-        <p>Laboratório híbrido e automação de Threat Hunting, reduzindo MTTR com integração direta a APIs de inteligência (Threat Intel).</p>
+        <p>Laboratório híbrido e automação de Threat Hunting, reduzindo MTTR com integração direta a APIs de inteligência.</p>
       </td>
     </tr>
     <tr>
@@ -84,7 +92,7 @@
         <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
         <img src="https://img.shields.io/badge/Windows_LAPS-0078D4?style=flat-square&logo=windows&logoColor=white" />
         <br><br>
-        <p>Engenharia de proteção de perímetro, eliminando exposição de portas críticas (RDP/SSH) e mitigando movimentação lateral (Pass-the-Hash).</p>
+        <p>Engenharia de proteção de perímetro, eliminando exposição de portas críticas (RDP/SSH) e mitigando movimentação lateral.</p>
       </td>
     </tr>
   </table>
@@ -92,7 +100,7 @@
 
 <br>
 
-<h2 align="center"> 🔮 GitHub Insights </h2>
+<h2 align="center"> 🔮 GitHub Insights & Activity </h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&hide_border=true&bg_color=00000000&title_color=B084CC&icon_color=00F5FF&text_color=A8B2C3" width="32%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&hide_border=true&bg_color=00000000&title_color=B084CC&text_color=A8B2C3" width="32%" />
@@ -100,6 +108,16 @@
 </div>
 
 <br><br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kaxcav0tracer&label=SYS.VIEWS&color=B084CC&style=flat-square" alt="Visitor Count" />
