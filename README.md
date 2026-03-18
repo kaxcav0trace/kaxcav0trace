@@ -14,21 +14,13 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&pause=2000&color=A8B2C3&center=true&vCenter=true&width=800&height=50&lines=Defendendo+Infraestruturas+Críticas+do+Governo;Construindo+Soluções+de+Automação+e+Resposta;Unindo+Engenharia+de+Software+e+Cibersegurança" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&pause=2000&color=A8B2C3&center=true&vCenter=true&width=800&height=50&lines=Defendendo+Infraestruturas+Criticas+do+Governo;Construindo+Solucoes+de+Automacao+e+Resposta;Unindo+Engenharia+de+Software+e+Ciberseguranca" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-<h2 align="center"> 🏆 Hall of Fame & Certifications </h2>
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kaxcav0tracer&theme=dracula&no-frame=true&no-bg=true&margin-w=15&column=4" alt="Trophies" />
-  </a>
-</div>
-
-<br>
-
+<h2 align="center"> 🏅 The Microsoft "Exodia" </h2>
 <div align="center">
   <img src="https://img.shields.io/badge/AZ--500-Azure_Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SC--200-SecOps_Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -50,9 +42,9 @@
       </td>
       <td align="center" width="50%">
         <h3> 🛡️ Defesa & SecOps </h3><br>
-        <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"><br><br>
-        <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white"><br><br>
-        <img src="https://img.shields.io/badge/Fortinet_Ecosystem-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"><br><br>
+        <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Fortinet_Ecosystem-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"><br>
         <img src="https://img.shields.io/badge/Zabbix_|_Grafana-D40000?style=for-the-badge&logo=zabbix&logoColor=white">
       </td>
     </tr>
@@ -102,9 +94,8 @@
 
 <h2 align="center"> 🔮 GitHub Insights & Activity </h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&hide_border=true&bg_color=00000000&title_color=B084CC&icon_color=00F5FF&text_color=A8B2C3" width="32%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&hide_border=true&bg_color=00000000&title_color=B084CC&text_color=A8B2C3" width="32%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&hide_border=true&background=00000000&ring=B084CC&fire=00F5FF&currStreakNum=B084CC&currStreakLabel=A8B2C3&sideNums=00F5FF&sideLabels=A8B2C3&dates=A8B2C3" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&hide_border=true&bg_color=00000000&title_color=B084CC&icon_color=00F5FF&text_color=A8B2C3" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&hide_border=true&background=00000000&ring=B084CC&fire=00F5FF&currStreakNum=B084CC&currStreakLabel=A8B2C3&sideNums=00F5FF&sideLabels=A8B2C3&dates=A8B2C3" width="48%" />
 </div>
 
 <br><br>
