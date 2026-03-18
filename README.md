@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&pause=2000&color=A8B2C3&center=true&vCenter=true&width=800&height=50&lines=Defendendo+Infraestruturas+Criticas+do+Governo;Construindo+Solucoes+de+Automacao+e+Resposta;Unindo+Engenharia+de+Software+e+Ciberseguranca" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&pause=2000&color=A8B2C3&center=true&vCenter=true&width=800&height=50&lines=Defendendo+Infraestruturas+Criticas;Construindo+Solucoes+de+Automacao;Engenharia+de+Defesa+e+SecOps" alt="Typing SVG" />
 
 </div>
 
