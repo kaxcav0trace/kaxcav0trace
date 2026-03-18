@@ -59,19 +59,31 @@
     <tr>
       <td width="50%" align="center">
         <h3><a href="https://github.com/kaxcav0tracer/k8s-wazuh-lab">👁️ SecOps Observability</a></h3>
-        <p><i>K8s • Wazuh • Grafana</i></p>
+        <br>
+        <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Wazuh-00A9E5?style=flat-square&logo=wazuh&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+        <br><br>
         <p>Single Pane of Glass unificando telemetria de infraestrutura (Zabbix) e segurança (Wazuh). Eliminação de silos no Blue Team.</p>
       </td>
       <td width="50%" align="center">
         <h3><a href="https://github.com/kaxcav0tracer/secops-automation-suite-v2">⚡ Sentinel Automation Suite</a></h3>
-        <p><i>Python • KQL • WPF</i></p>
+        <br>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+        <br><br>
         <p>Laboratório híbrido e automação de Threat Hunting, reduzindo MTTR com integração direta a APIs de inteligência (Threat Intel).</p>
       </td>
     </tr>
     <tr>
       <td width="100%" colspan="2" align="center">
         <h3>🛡️ Secure Gateway & Zero Trust</h3>
-        <p><i>Apache Guacamole • LAPS • Active Directory</i></p>
+        <br>
+        <img src="https://img.shields.io/badge/Apache_Guacamole-83B81A?style=flat-square&logo=apache&logoColor=white" />
+        <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
+        <img src="https://img.shields.io/badge/Windows_LAPS-0078D4?style=flat-square&logo=windows&logoColor=white" />
+        <br><br>
         <p>Engenharia de proteção de perímetro, eliminando exposição de portas críticas (RDP/SSH) e mitigando movimentação lateral (Pass-the-Hash).</p>
       </td>
     </tr>
@@ -82,11 +94,16 @@
 
 <h2 align="center"> 🔮 GitHub Insights </h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&hide_border=true&bg_color=00000000&title_color=B084CC&icon_color=00F5FF&text_color=A8B2C3" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&hide_border=true&background=00000000&ring=B084CC&fire=00F5FF&currStreakNum=B084CC&currStreakLabel=A8B2C3&sideNums=00F5FF&sideLabels=A8B2C3&dates=A8B2C3" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&hide_border=true&bg_color=00000000&title_color=B084CC&icon_color=00F5FF&text_color=A8B2C3" width="32%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&hide_border=true&bg_color=00000000&title_color=B084CC&text_color=A8B2C3" width="32%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&hide_border=true&background=00000000&ring=B084CC&fire=00F5FF&currStreakNum=B084CC&currStreakLabel=A8B2C3&sideNums=00F5FF&sideLabels=A8B2C3&dates=A8B2C3" width="32%" />
 </div>
 
-<br>
+<br><br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=kaxcav0tracer&label=SYS.VIEWS&color=B084CC&style=flat-square" alt="Visitor Count" />
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer" width="100%" />
