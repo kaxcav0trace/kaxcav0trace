@@ -16,13 +16,18 @@
 
 <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&pause=2000&color=A8B2C3&center=true&vCenter=true&width=800&height=50&lines=Defendendo+Infraestruturas+Criticas;Construindo+Solucoes+de+Automacao;Engenharia+de+Defesa+e+SecOps" alt="Typing SVG" />
 
+<br><br>
+
+<code>❯ whoami && id -un</code>
+<br>
+<p><i>Especialista em arquitetura de segurança, resposta a incidentes e orquestração de defesas em ambientes híbridos e Cloud.</i></p>
+
 </div>
 
 <br>
 
 <h2 align="center"> 🏅 The Microsoft "Exodia" </h2>
 <div align="center">
-  <p><i>Certificações Oficiais de Segurança e Identidade</i></p>
   <img src="https://img.shields.io/badge/AZ--500-Azure_Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SC--200-SecOps_Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SC--300-Identity_&_Access-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -35,19 +40,19 @@
 <div align="center">
   <table border="0" style="background-color: transparent;">
     <tr>
-      <td align="center" valign="top" width="50%">
+      <td align="center" valign="middle" width="50%">
         <h3> 🛠️ Engenharia & Cloud </h3>
         <br>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,ubuntu,kubernetes,aws,azure&perline=4" />
         </a>
       </td>
-      <td align="center" valign="top" width="50%">
+      <td align="center" valign="middle" width="50%">
         <h3> 🛡️ Defesa & SecOps </h3>
         <br>
-        <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"><br><br>
-        <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white"><br><br>
-        <img src="https://img.shields.io/badge/Fortinet_Ecosystem-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"><br><br>
+        <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white"><br>
+        <img src="https://img.shields.io/badge/Fortinet_Ecosystem-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"><br>
         <img src="https://img.shields.io/badge/Zabbix_|_Grafana-D40000?style=for-the-badge&logo=zabbix&logoColor=white">
       </td>
     </tr>
@@ -61,8 +66,7 @@
   <table border="0" style="background-color: transparent;">
     <tr>
       <td width="50%" align="center" valign="top">
-        <h3><a href="https://github.com/kaxcav0tracer/artemis-project">🏹 Artemis SOAR</a></h3>
-        <br>
+        <h3><a href="https://github.com/kaxcav0tracer/artemis-project"><code>[🏹] Artemis SOAR</code></a></h3>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Wazuh-00A9E5?style=flat-square&logo=wazuh&logoColor=white" />
         <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" />
@@ -72,8 +76,7 @@
         </blockquote>
       </td>
       <td width="50%" align="center" valign="top">
-        <h3><a href="https://github.com/kaxcav0tracer/secops-automation-suite-v2">⚡ Sentinel Automation</a></h3>
-        <br>
+        <h3><a href="https://github.com/kaxcav0tracer/secops-automation-suite-v2"><code>[⚡] Sentinel Automation</code></a></h3>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
@@ -86,8 +89,7 @@
     <tr>
       <td width="50%" align="center" valign="top">
         <br>
-        <h3><a href="https://github.com/kaxcav0tracer/k8s-wazuh-lab">👁️ SecOps Observability</a></h3>
-        <br>
+        <h3><a href="https://github.com/kaxcav0tracer/k8s-wazuh-lab"><code>[👁️] SecOps Observability</code></a></h3>
         <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
         <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
         <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
@@ -98,8 +100,7 @@
       </td>
       <td width="50%" align="center" valign="top">
         <br>
-        <h3>🛡️ Secure Gateway</h3>
-        <br>
+        <h3><code>[🛡️] Secure Gateway</code></h3>
         <img src="https://img.shields.io/badge/Apache_Guacamole-83B81A?style=flat-square&logo=apache&logoColor=white" />
         <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
         <img src="https://img.shields.io/badge/Windows_LAPS-0078D4?style=flat-square&logo=windows&logoColor=white" />
