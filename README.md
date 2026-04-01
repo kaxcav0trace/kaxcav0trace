@@ -122,21 +122,17 @@
 
 <h2 align="center"> ━━━ 🔮 GitHub Insights & Activity ━━━ </h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180em" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&theme=tokyonight&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&theme=tokyonight&hide_border=true" height="175" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=tokyonight&hide_border=true" height="175" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&theme=tokyonight&hide_border=true" height="175" />
 </div>
 
 <br><br>
 
 <h2 align="center"> ━━━ 🐍 Contribution Snake ━━━ </h2>
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </div>
 
 <br><br>
