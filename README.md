@@ -58,13 +58,13 @@
   <table border="0" style="background-color: transparent;">
     <tr>
       <td width="50%" align="center">
-        <h3><a href="https://github.com/kaxcav0tracer/k8s-wazuh-lab">👁️ SecOps Observability</a></h3>
+        <h3><a href="https://github.com/kaxcav0tracer/artemis-soar">🏹 Artemis SOAR</a></h3>
         <br>
-        <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Wazuh-00A9E5?style=flat-square&logo=wazuh&logoColor=white" />
-        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+        <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" />
         <br><br>
-        <p>Single Pane of Glass unificando telemetria de infraestrutura e segurança. Eliminação de silos no Blue Team.</p>
+        <p>Microserviço de alta performance para orquestração de segurança e enriquecimento automático de ameaças com Wazuh e VirusTotal.</p>
       </td>
       <td width="50%" align="center">
         <h3><a href="https://github.com/kaxcav0tracer/secops-automation-suite-v2">⚡ Sentinel Automation Suite</a></h3>
@@ -77,7 +77,16 @@
       </td>
     </tr>
     <tr>
-      <td width="100%" colspan="2" align="center">
+      <td width="50%" align="center">
+        <h3><a href="https://github.com/kaxcav0tracer/k8s-wazuh-lab">👁️ SecOps Observability</a></h3>
+        <br>
+        <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
+        <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+        <br><br>
+        <p>Single Pane of Glass unificando telemetria de infraestrutura e segurança. Eliminação de silos no Blue Team.</p>
+      </td>
+      <td width="50%" align="center">
         <h3>🛡️ Secure Gateway & Zero Trust</h3>
         <br>
         <img src="https://img.shields.io/badge/Apache_Guacamole-83B81A?style=flat-square&logo=apache&logoColor=white" />
