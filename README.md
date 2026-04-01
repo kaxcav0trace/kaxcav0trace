@@ -26,7 +26,8 @@
 <code><b>User......:</b> victor.ramalho (Kaxcav)</code>
 <code><b>Role......:</b> Cloud Security & SecOps Specialist</code>
 <code><b>Focus.....:</b> Detection as Code | Automation | IR</code>
-<code><b>Status....:</b> <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF00?style=flat-square" height="12"> <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-0078D4?style=flat-square" height="12"></code></pre>
+<code><b>Status....:</b> <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF00?style=flat-square" height="12"> <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-0078D4?style=flat-square" height="12"></code>
+<code><b>Location..:</b> <img src="https://img.shields.io/badge/Brasília-DF-yellow?style=flat-square" height="12"></code></pre>
     </td>
   </tr>
 </table>
@@ -51,14 +52,14 @@
   <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,ubuntu,kubernetes,aws,azure,docker,git,vscode,mysql&perline=6" />
   <br><br>
   <p><b>🛡️ Defesa & SecOps</b></p>
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=flat-square&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/F5_BIG_IP-ED1C24?style=for-the-badge&logo=f5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Symantec-191919?style=for-the-badge&logo=broadcom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/F5_BIG_IP-ED1C24?style=flat-square&logo=f5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Symantec-191919?style=flat-square&logo=broadcom&logoColor=white" />
 </div>
 
 <br><br>
@@ -121,18 +122,27 @@
 
 <h2 align="center"> ━━━ 🔮 GitHub Insights & Activity ━━━ </h2>
 <div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=vision-glow&hide_border=true" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&hide_border=true&bg_color=00000000&title_color=B084CC&icon_color=00F5FF&text_color=A8B2C3" height="165px" />
+  <table border="0" style="background-color: transparent;">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=vision-glow&hide_border=true" height="165px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&hide_border=true&theme=vision-glow&title_color=B084CC&icon_color=00F5FF&text_color=A8B2C3" height="165px" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&theme=vision-glow&hide_border=true" alt="GitHub Streak" height="165px" />
 </div>
 
 <br><br>
 
+<h2 align="center"> ━━━ 🐍 Contribution Snake ━━━ </h2>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
