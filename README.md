@@ -52,14 +52,14 @@
   <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,ubuntu,kubernetes,aws,azure,docker,git,vscode,mysql&perline=6" />
   <br><br>
   <p><b>🛡️ Defesa & SecOps</b></p>
-  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=flat-square&logo=wazuh&logoColor=white" />
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
-  <img src="https://img.shields.io/badge/F5_BIG_IP-ED1C24?style=flat-square&logo=f5&logoColor=white" />
-  <img src="https://img.shields.io/badge/Symantec-191919?style=flat-square&logo=broadcom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/F5_BIG_IP-ED1C24?style=for-the-badge&logo=f5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Symantec-191919?style=for-the-badge&logo=broadcom&logoColor=white" />
 </div>
 
 <br><br>
@@ -122,17 +122,10 @@
 
 <h2 align="center"> ━━━ 🔮 GitHub Insights & Activity ━━━ </h2>
 <div align="center">
-  <table border="0" style="background-color: transparent;">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=vision-glow&hide_border=true" height="165px" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&hide_border=true&theme=vision-glow&title_color=B084CC&icon_color=00F5FF&text_color=A8B2C3" height="165px" />
-      </td>
-    </tr>
-  </table>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&theme=vision-glow&hide_border=true" alt="GitHub Streak" height="165px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="180em" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&theme=tokyonight&hide_border=true" height="180em" />
 </div>
 
 <br><br>
@@ -146,7 +139,7 @@
   </picture>
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kaxcav0tracer&label=SYS.VIEWS&color=B084CC&style=flat-square" alt="Visitor Count" />
