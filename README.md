@@ -20,12 +20,13 @@
 
 <table border="0" style="background-color: transparent;">
   <tr>
-    <td align="left">
-      <code><b>root@secops-mainframe:~#</b> neofetch --profile victor</code><br>
-      <code><b>OS.....:</b> DevSecOps & Cloud Security</code><br>
-      <code><b>Kernel.:</b> Threat Intelligence & Automation</code><br>
-      <code><b>Uptime.:</b> Defendendo ambientes híbridos e críticos 24/7</code><br>
-      <code><b>Mission:</b> Arquitetura de segurança, resposta a incidentes e orquestração.</code>
+    <td>
+      <pre align="left">
+<code><b>❯ whoami</b></code>
+<code><b>User......:</b> victor.ramalho (Kaxcav)</code>
+<code><b>Role......:</b> Cloud Security & SecOps Specialist</code>
+<code><b>Focus.....:</b> Detection as Code | Automation | IR</code>
+<code><b>Location..:</b> Águas Claras, DF, BR</code></pre>
     </td>
   </tr>
 </table>
@@ -36,7 +37,6 @@
 
 <h2 align="center"> ━━━ 🏅 The Microsoft "Exodia" ━━━ </h2>
 <div align="center">
-  <br>
   <img src="https://img.shields.io/badge/AZ--500-Azure_Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SC--200-SecOps_Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SC--300-Identity_&_Access-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -49,20 +49,24 @@
 <div align="center">
   <table border="0" style="background-color: transparent;">
     <tr>
-      <td align="center" valign="middle" width="50%">
+      <td align="center" valign="top" width="50%">
         <h3> 🛠️ Engenharia & Cloud </h3>
         <br>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,ubuntu,kubernetes,aws,azure&perline=4" />
         </a>
       </td>
-      <td align="center" valign="middle" width="50%">
+      <td align="center" valign="top" width="50%">
         <h3> 🛡️ Defesa & SecOps </h3>
         <br>
-        <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Fortinet_Ecosystem-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"><br>
-        <img src="https://img.shields.io/badge/Zabbix_|_Grafana-D40000?style=for-the-badge&logo=zabbix&logoColor=white">
+        <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
+        <img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=flat-square&logo=wazuh&logoColor=white" />
+        <br>
+        <img src="https://img.shields.io/badge/Fortinet_Ecosystem-EE3124?style=flat-square&logo=fortinet&logoColor=white" />
+        <img src="https://img.shields.io/badge/Zabbix_|_Grafana-D40000?style=flat-square&logo=zabbix&logoColor=white" />
+        <br><br>
+        <img src="https://img.shields.io/badge/Symantec-191919?style=flat-square&logo=broadcom&logoColor=white" />
+        <img src="https://img.shields.io/badge/F5_BIG_IP-ED1C24?style=flat-square&logo=f5&logoColor=white" />
       </td>
     </tr>
   </table>
@@ -76,52 +80,48 @@
     <tr>
       <td width="50%" align="center" valign="top">
         <br>
-        <h3><a href="https://github.com/kaxcav0tracer/artemis-project"><kbd> 🏹 Artemis SOAR </kbd></a></h3>
-        <br>
+        <h3>🏹 <code>Artemis SOAR Project</code></h3>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Wazuh-00A9E5?style=flat-square&logo=wazuh&logoColor=white" />
         <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white" />
         <br><br>
         <blockquote>
-          <i>Microserviço de alta performance para orquestração de segurança e enriquecimento automático de ameaças com Wazuh e VirusTotal.</i>
+          <i>Microserviço de alta performance para orquestração de segurança e enriquecimento automático de ameaças.</i>
         </blockquote>
       </td>
       <td width="50%" align="center" valign="top">
         <br>
-        <h3><a href="https://github.com/kaxcav0tracer/secops-automation-suite-v2"><kbd> ⚡ Sentinel Automation </kbd></a></h3>
-        <br>
+        <h3>⚡ <code>Sentinel Automation</code></h3>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" />
         <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
         <br><br>
         <blockquote>
-          <i>Laboratório híbrido e automação de Threat Hunting, reduzindo MTTR com integração direta a APIs de inteligência e SecOps GUI.</i>
+          <i>Laboratório híbrido e automação de Threat Hunting, reduzindo MTTR com integração direta a APIs.</i>
         </blockquote>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center" valign="top">
         <br>
-        <h3><a href="https://github.com/kaxcav0tracer/k8s-wazuh-lab"><kbd> 👁️ SecOps Observability </kbd></a></h3>
-        <br>
+        <h3>👁️ <code>SecOps Observability</code></h3>
         <img src="https://img.shields.io/badge/K8s-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
         <img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white" />
         <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
         <br><br>
         <blockquote>
-          <i>Single Pane of Glass unificando telemetria de infraestrutura e segurança. Eliminação de silos no Blue Team utilizando K8s.</i>
+          <i>Single Pane of Glass unificando telemetria de infraestrutura e segurança em ambiente Kubernetes.</i>
         </blockquote>
       </td>
       <td width="50%" align="center" valign="top">
         <br>
-        <h3><kbd> 🛡️ Secure Gateway </kbd></h3>
-        <br>
+        <h3>🛡️ <code>Secure Gateway</code></h3>
         <img src="https://img.shields.io/badge/Apache_Guacamole-83B81A?style=flat-square&logo=apache&logoColor=white" />
         <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white" />
         <img src="https://img.shields.io/badge/Windows_LAPS-0078D4?style=flat-square&logo=windows&logoColor=white" />
         <br><br>
         <blockquote>
-          <i>Engenharia de proteção de perímetro (Zero Trust), mitigando exposição de portas críticas (RDP/SSH) e movimentação lateral.</i>
+          <i>Engenharia de proteção de perímetro (Zero Trust), eliminando exposição de portas críticas RDP/SSH.</i>
         </blockquote>
       </td>
     </tr>
