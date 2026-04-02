@@ -24,7 +24,8 @@
       <pre align="left">
 <code><b>❯ whoami</b></code>
 <code><b>User......:</b> victor.ramalho (Kaxcav)</code>
-<code><b>Role......:</b> Cloud Security & SecOps Specialist</code>
+<code><b>Role......:</b> N2 Support & SecOps Specialist</code>
+<code><b>Academic..:</b> Software Engineering (6th Sem)</code>
 <code><b>Focus.....:</b> Detection as Code | Automation | IR</code>
 <code><b>Status....:</b> <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF00?style=flat-square" height="12"> <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-0078D4?style=flat-square" height="12"></code>
 <code><b>Location..:</b> Águas Claras, DF, BR</code></pre>
@@ -36,8 +37,15 @@
 
 <br>
 
-<h2 align="center"> ━━━ 🏅 The Microsoft "Exodia" ━━━ </h2>
+<h2 align="center"> ━━━ 🏅 Certifications & Goals ━━━ </h2>
 <div align="center">
+  <p><b>🏆 Conquistadas</b></p>
+  <img src="https://img.shields.io/badge/Aviatrix-Multicloud_Network_Associate-F78E1E?style=for-the-badge&logo=aviatrix&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBSEC-Pentester_Associado-DC143C?style=for-the-badge&logo=security&logoColor=white" />
+  
+  <br><br>
+  
+  <p><b>📚 Em Progresso (The Microsoft "Exodia")</b></p>
   <img src="https://img.shields.io/badge/AZ--500-Azure_Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SC--200-SecOps_Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SC--300-Identity_&_Access-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -48,8 +56,8 @@
 
 <h2 align="center"> ━━━ 🌌 Arsenal & Telemetria ━━━ </h2>
 <div align="center">
-  <p><b>🛠️ Engenharia & Cloud</b></p>
-  <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,ubuntu,kubernetes,aws,azure,docker,git,vscode,mysql&perline=6" />
+  <p><b>🛠️ Engenharia, Cloud & Dev</b></p>
+  <img src="https://skillicons.dev/icons?i=python,powershell,bash,linux,ubuntu,kubernetes,aws,azure,docker,git,vscode,mysql,java,php&perline=7" />
   <br><br>
   <p><b>🛡️ Defesa & SecOps</b></p>
   <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
