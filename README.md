@@ -26,8 +26,7 @@
 <code><b>User......:</b> victor.ramalho (Kaxcav)</code>
 <code><b>Role......:</b> Cloud Security & SecOps Specialist</code>
 <code><b>Focus.....:</b> Detection as Code | Automation | IR</code>
-<code><b>Status....:</b> <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF00?style=flat-square" height="12"> <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-0078D4?style=flat-square" height="12"></code>
-<code><b>Location..:</b> Águas Claras, DF, BR</code></pre>
+<code><b>Status....:</b> <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF00?style=flat-square" height="12"> <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-0078D4?style=flat-square" height="12"></code></pre>
     </td>
   </tr>
 </table>
@@ -85,7 +84,7 @@
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
         <img src="https://img.shields.io/badge/Wazuh-00A9E5?style=flat-square&logo=wazuh&logoColor=white" />
         <br><br>
-        <blockquote><i>Microserviço de alta performance para orquestração de segurança e enriquecimento automático de ameaças.</i></blockquote>
+        <blockquote><i>Microserviço de alta performance para orquestração e enriquecimento automático de ameaças.</i></blockquote>
       </td>
       <td width="50%" align="center" valign="top">
         <br>
@@ -124,18 +123,29 @@
   <table border="0" style="background-color: transparent;">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=4" height="175" />
+        <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0tracer&show_icons=true&theme=tokyonight&hide_border=true&v=4" height="175" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=4" height="175" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0tracer&layout=compact&theme=tokyonight&hide_border=true&v=4" height="175" />
       </td>
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&theme=tokyonight&hide_border=true&background=0D1117&v=4" height="175" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0tracer&theme=tokyonight&hide_border=true&v=4" height="175" />
 </div>
 
 <br><br>
+
+<h2 align="center"> ━━━ 🐍 Contribution Snake ━━━ </h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/kaxcav0tracer/kaxcav0tracer/output/github-contribution-grid-snake.svg" width="80%">
+  </picture>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=kaxcav0tracer&label=SYS.VIEWS&color=B084CC&style=flat-square" alt="Visitor Count" />
