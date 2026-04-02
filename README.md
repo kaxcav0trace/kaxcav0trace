@@ -24,7 +24,7 @@
       <pre align="left">
 <code><b>❯ whoami</b></code>
 <code><b>User......:</b> victor.ramalho (Kaxcav)</code>
-<code><b>Role......:</b> N2 Support & SecOps Specialist</code>
+<code><b>Role......:</b> SecOps Specialist</code>
 <code><b>Academic..:</b> Software Engineering (6th Sem)</code>
 <code><b>Focus.....:</b> Detection as Code | Automation | IR</code>
 <code><b>Status....:</b> <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF00?style=flat-square" height="12"> <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-0078D4?style=flat-square" height="12"></code>
