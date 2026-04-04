@@ -54,7 +54,7 @@
 <h2 align="center"> 🌌 Arsenal & Telemetria </h2>
 <div align="center">
   <p><b>🛠️ Engenharia, Cloud & Dev</b></p>
-  <img src="https://skillicons.dev/icons?i=python,powershell,bash,java,php,c,cpp,fastapi,nodejs,linux,ubuntu,debian,kali,windows,aws,azure,gcp,docker,kubernetes,jenkins,terraform,ansible,elasticsearch,postgres,mysql,sqlite,redis,rabbitmq,nginx,cloudflare,prometheus,sentry,git,github,gitlab,githubactions,bitbucket,postman,vim,vscode,regex,markdown&perline=14" />
+  <img src="https://skillicons.dev/icons?i=python,powershell,bash,java,php,c,cpp,golang,rust,js,ts,fastapi,nodejs,linux,ubuntu,debian,kali,alpine,redhat,fedora,mint,arch,windows,aws,azure,gcp,docker,kubernetes,jenkins,terraform,ansible,elasticsearch,postgres,mysql,sqlite,mongodb,redis,rabbitmq,kafka,nginx,apache,cloudflare,prometheus,sentry,git,github,gitlab,githubactions,bitbucket,postman,vim,neovim,vscode,regex,markdown,discord&perline=14" />
   <br><br>
   <p><b>🛡️ Defesa & SecOps</b></p>
   <img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
