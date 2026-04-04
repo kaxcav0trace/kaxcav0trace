@@ -23,13 +23,13 @@
     <td>
       <pre align="left">
 <code><b>❯ whoami</b></code>
-<code><b>User......:</b> victor.ramalho (kaxcav0trace)</code>
+<code><b>User......:</b> victor.mercury</code>
 <code><b>Role......:</b> Cybersecurity Analyst | DevSecOps</code>
 <code><b>Org.......:</b> ZeroDay Research Lab</code>
 <code><b>Academic..:</b> Software Engineering</code>
 <code><b>Focus.....:</b> Threat Hunting | Detection as Code | Automation</code>
 <code><b>Status....:</b> <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF00?style=flat-square" height="12"> <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-0078D4?style=flat-square" height="12"></code>
-<code><b>Location..:</b> Undisclosed Location | Layer 7</code></pre>
+<code><b>Location..:</b> Undisclosed Location</code></pre>
     </td>
   </tr>
 </table>
@@ -40,7 +40,7 @@
 
 <h2 align="center"> ━━━ 🏅 Certifications ━━━ </h2>
 <div align="center">
-  <p><b>🏆 Conquistadas (The Microsoft "Exodia")</b></p>
+  <p><b>🏆 Conquistadas</b></p>
   <img src="https://img.shields.io/badge/AZ--500-Azure_Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SC--200-SecOps_Analyst-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
   <img src="https://img.shields.io/badge/SC--300-Identity_and_Access-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
@@ -68,7 +68,7 @@
 
 <br><br>
 
-<h2 align="center"> ━━━ ⚡ Engineered Solutions (Projetos) ━━━ </h2>
+<h2 align="center"> ━━━ ⚡ Engineered Solutions ━━━ </h2>
 <div align="center">
   <table border="0" style="background-color: transparent;">
     <tr>
