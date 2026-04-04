@@ -132,7 +132,7 @@
         <img src="https://github-readme-stats-gold-theta-94.vercel.app/api?username=kaxcav0trace&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&random=1" height="175" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats-gold-theta-94.vercel.app/api/top-langs/?username=kaxcav0trace&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&random=1" height="175" alt="Top Langs" />
+        <img src="https://github-readme-stats-gold-theta-94.vercel.app/api/top-langs/?username=kaxcav0trace&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&random=1&exclude_repo=github-readme-stats" height="175" alt="Top Langs" />
       </td>
     </tr>
   </table>
