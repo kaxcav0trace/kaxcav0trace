@@ -129,15 +129,15 @@
   <table border="0" style="background-color: transparent;">
     <tr>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0trace&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" height="170" />
+        <img src="https://github-readme-stats.vercel.app/api?username=kaxcav0trace&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&random=1" height="170" alt="GitHub Stats" />
       </td>
       <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0trace&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&v=3" height="170" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaxcav0trace&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&random=1" height="170" alt="Top Langs" />
       </td>
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0trace&theme=tokyonight&hide_border=true&background=0D1117&v=3" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0trace&theme=tokyonight&hide_border=true&background=0D1117&random=1" height="170" alt="GitHub Streak" />
 </div>
 
 <br>
