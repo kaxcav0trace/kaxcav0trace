@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=VICTOR%20RAMALHO&fontSize=65&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=CTF%20%7C%20DevSecOps%20%7C%20Cybersecurity%20Analyst&descAlignY=58&descSize=20" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=VICTOR%20RAMALHO&fontSize=65&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=DevSecOps%20%7C%20Cybersecurity%20Analyst&descAlignY=58&descSize=20" width="100%" />
 
 <br><br>
 
@@ -14,7 +14,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&pause=2000&color=A8B2C3&center=true&vCenter=true&width=800&height=50&lines=CTF+%7C+DevSecOps;Engenharia+de+Software;Cybersecurity+Analyst;ZeroDay+Research" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&pause=2000&color=A8B2C3&center=true&vCenter=true&width=800&height=50&lines=Cybersecurity+Analyst;DevSecOps+Engineering;Detection+as+Code;Threat+Hunting+|+Automation;ZeroDay+Research+Lab" alt="Typing SVG" />
 
 <br><br>
 
@@ -27,7 +27,7 @@
 <code><b>Role......:</b> Cybersecurity Analyst | DevSecOps</code>
 <code><b>Org.......:</b> ZeroDay Research Lab</code>
 <code><b>Academic..:</b> Software Engineering</code>
-<code><b>Focus.....:</b> CTF | Detection as Code | Automation</code>
+<code><b>Focus.....:</b> Threat Hunting | Detection as Code | Automation</code>
 <code><b>Status....:</b> <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00FF00?style=flat-square" height="12"> <img src="https://img.shields.io/badge/FIREWALL-ACTIVE-0078D4?style=flat-square" height="12"></code>
 <code><b>Location..:</b> Undisclosed Location | Layer 7</code></pre>
     </td>
