@@ -1,245 +1,225 @@
+<!-- ========================================================= -->
+<!--                     HEADER / HERO                         -->
+<!-- ========================================================= -->
+
 <div align="center">
+
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=VICTOR%20GIRARDI&fontSize=65&fontAlignY=38&animation=fadeIn&fontColor=FFFFFF&desc=Detection%20Engineering%20%7C%20Cybersecurity%20Analyst&descAlignY=58&descSize=20"
+    src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=260&section=header&text=VICTOR%20GIRARDI&fontSize=68&fontAlignY=36&animation=fadeIn&fontColor=FFFFFF&desc=Detection%20Engineering%20%E2%80%A2%20Security%20Operations%20%E2%80%A2%20Automation&descAlignY=57&descSize=19"
     width="100%"
   />
+
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/victorsecops" target="_blank">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="LinkedIn"
-    >
-  </a>
 
-  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/victorsecops">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
   <a href="mailto:victor.secops@proton.me">
-    <img
-      src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"
-      alt="Email"
-    >
+    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white"/>
   </a>
+
+  <a href="https://github.com/kaxcav0trace">
+    <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+
 </div>
 
 <br>
 
 <div align="center">
+
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=500&size=20&pause=2000&color=A8B2C3&center=true&vCenter=true&width=850&height=50&lines=Detection+Engineering;Security+Operations;Detection+as+Code;Threat+Hunting+%7C+Automation;SIEM+%7C+SOAR+%7C+Threat+Detection"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&pause=1600&color=7AA2F7&center=true&vCenter=true&width=900&height=55&lines=Cybersecurity+Analyst;Detection+Engineering;Detection+as+Code;Threat+Hunting+%7C+Automation;Elastic+Security+%7C+Microsoft+Sentinel;Engineering+Signals.+Hunting+Threats."
     alt="Typing SVG"
   />
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+<!--                       TERMINAL                             -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+```console
+╭──────────────────────────────────────────────────────────────╮
+│  ●  ●  ●                  SECURITY SHELL                    │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  ❯ whoami                                                    │
+│                                                              │
+│  User       victor.mercury                                   │
+│  Role       Cybersecurity Analyst                            │
+│  Focus      Detection Engineering • Threat Hunting • SOAR    │
+│  SIEM       Elastic Security • Microsoft Sentinel            │
+│  Academic   Software Engineering                             │
+│  Status     SYSTEM ONLINE                                    │
+│  Location   Undisclosed                                      │
+│                                                              │
+│  ❯ _                                                         │
+╰──────────────────────────────────────────────────────────────╯
+```
+
+</td>
+</tr>
+</table>
+
 </div>
 
 <br>
 
 <div align="center">
-  <table border="0" cellpadding="15" cellspacing="0" bgcolor="#0D1117" width="700">
-    <tr>
-      <td align="left">
 
-<code>🔴 🟡 🟢</code>
+### `Security is telemetry transformed into decisions.`
 
-<br><br>
-
-<pre>
-<b>❯ whoami</b>
-
-<b>User......:</b> victor.mercury
-<b>Role......:</b> Cybersecurity Analyst | Detection Engineering
-<b>Academic..:</b> Software Engineering
-<b>Focus.....:</b> Detection as Code | Threat Hunting | SOAR
-<b>SIEM......:</b> Elastic Security | Microsoft Sentinel
-<b>Status....:</b> SYSTEM ONLINE
-<b>Location..:</b> Undisclosed Location
-</pre>
-
-      </td>
-    </tr>
-  </table>
 </div>
 
-<br><br>
+<br>
 
-<h2 align="center"> 🏅 Certifications </h2>
+<!-- ========================================================= -->
+<!--                       CERTS                                -->
+<!-- ========================================================= -->
+
+<h2 align="center">
+  🏅 Microsoft Security Certifications
+</h2>
 
 <div align="center">
 
-  <img
-    src="https://img.shields.io/badge/AZ--500-Azure_Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
-  />
+  <img src="https://img.shields.io/badge/AZ--500-Azure_Security-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
-  <img
-    src="https://img.shields.io/badge/SC--200-Security_Operations-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
-  />
+  <img src="https://img.shields.io/badge/SC--200-Security_Operations-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
-  <img
-    src="https://img.shields.io/badge/SC--300-Identity_and_Access-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"
-  />
+  <img src="https://img.shields.io/badge/SC--300-Identity_%26_Access-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
 
 </div>
 
 <br><br>
 
-<h2 align="center"> 🎯 Detection Engineering </h2>
+<!-- ========================================================= -->
+<!--                   DETECTION ENGINEERING                   -->
+<!-- ========================================================= -->
+
+<h2 align="center">
+  🎯 Detection Engineering
+</h2>
 
 <div align="center">
 
-  <img
-    src="https://img.shields.io/badge/ES%7CQL-Elastic-005571?style=flat-square&logo=elastic&logoColor=white"
-  />
+<img src="https://img.shields.io/badge/Elastic_Security-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/ES%7CQL-Detection_Query-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/KQL-Threat_Hunting-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
 
-  <img
-    src="https://img.shields.io/badge/KQL-Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"
-  />
+<br>
 
-  <img
-    src="https://img.shields.io/badge/MITRE_ATT%26CK-Threat_Mapping-CB1B45?style=flat-square"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Detection_as_Code-Git-181717?style=flat-square&logo=git&logoColor=white"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Threat_Hunting-SecOps-8A2BE2?style=flat-square"
-  />
-
-  <img
-    src="https://img.shields.io/badge/SOAR-Automation-FF6F00?style=flat-square"
-  />
+<img src="https://img.shields.io/badge/MITRE_ATT%26CK-CB1B45?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Detection_as_Code-181717?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Threat_Hunting-7A5AF8?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOAR-Automation-F97316?style=for-the-badge"/>
 
 </div>
 
 <br>
 
 <p align="center">
-  Threat-driven detection development focused on telemetry analysis,
-  behavioral detection, correlation, threat hunting and automation.
+  Building detections from telemetry, threat behavior and contextual correlation.<br>
+  Focused on high-signal alerts, threat hunting, automation and scalable security operations.
 </p>
 
 <br><br>
 
-<h2 align="center"> ⚙️ Engineering Stack </h2>
+<!-- ========================================================= -->
+<!--                       ARSENAL                              -->
+<!-- ========================================================= -->
+
+<h2 align="center">
+  🌌 Arsenal & Telemetry
+</h2>
 
 <div align="center">
 
-  <img
-    src="https://skillicons.dev/icons?i=python,powershell,bash,linux,windows,postgres,git,github,gitlab,vscode,azure,docker,kubernetes,elasticsearch,nginx&perline=8"
-  />
+### ⚙️ Engineering • Cloud • Dev
+
+<img
+  src="https://skillicons.dev/icons?i=python,fastapi,powershell,bash,linux,ubuntu,windows,postgres,redis,git,github,gitlab,vscode,azure,docker,kubernetes,elasticsearch,nginx&perline=9"
+/>
+
+<br><br>
+
+### 🛡️ Security Operations
+
+<img src="https://img.shields.io/badge/Elastic_Security-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white"/>
+<img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/F5_BIG--IP-ED1C24?style=for-the-badge&logo=f5&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/Symantec-191919?style=for-the-badge&logo=broadcom&logoColor=white"/>
 
 </div>
 
 <br><br>
 
-<h2 align="center"> 🛡️ Security Operations & Telemetry </h2>
+<!-- ========================================================= -->
+<!--                  ENGINEERED SOLUTIONS                     -->
+<!-- ========================================================= -->
 
-<div align="center">
+<h2 align="center">
+  ⚡ Engineered Solutions
+</h2>
 
-  <img
-    src="https://img.shields.io/badge/Elastic_Security-005571?style=for-the-badge&logo=elastic&logoColor=white"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Wazuh_XDR-00A9E5?style=for-the-badge&logo=wazuh&logoColor=white"
-  />
-
-  <br>
-
-  <img
-    src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"
-  />
-
-  <img
-    src="https://img.shields.io/badge/F5_BIG--IP-ED1C24?style=for-the-badge&logo=f5&logoColor=white"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white"
-  />
-
-  <img
-    src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"
-  />
-
-</div>
-
-<br><br>
-
-<h2 align="center"> ⚡ Engineered Solutions </h2>
-
-<div align="center">
-
-<table border="0">
+<table align="center">
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<h3>
-  <a href="https://github.com/kaxcav0trace/artemis-project">
-    🏹 Artemis SOAR Project
-  </a>
-</h3>
+<div align="center">
 
-<img
-  src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"
-/>
+### 🏹 [Artemis SOAR](https://github.com/kaxcav0trace/artemis-project)
 
-<img
-  src="https://img.shields.io/badge/Wazuh-00A9E5?style=flat-square&logo=wazuh&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wazuh-00A9E5?style=flat-square&logo=wazuh&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white"/>
 
-<img
-  src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white"
-/>
+</div>
 
-<img
-  src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"
-/>
+<br>
 
-<br><br>
-
-<blockquote align="left">
-SOAR desenvolvido com FastAPI para enriquecimento de alertas,
-cache de inteligência em PostgreSQL e automação de bloqueios em
-Firewalls FortiGate.
-</blockquote>
+> SOAR desenvolvido com **FastAPI** para enriquecimento de alertas, inteligência de ameaças, cache em PostgreSQL e automação de respostas em firewalls FortiGate.
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
 
-<h3>
-  <a href="https://github.com/kaxcav0trace/secops-automation-suite-v2">
-    ⚡ Sentinel Automation
-  </a>
-</h3>
+<div align="center">
 
-<img
-  src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"
-/>
+### ⚡ [Sentinel Automation](https://github.com/kaxcav0trace/secops-automation-suite-v2)
 
-<img
-  src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"
-/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
 
-<img
-  src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"
-/>
+</div>
 
-<br><br>
+<br>
 
-<blockquote align="left">
-Laboratório de Security Operations com Microsoft Sentinel,
-KQL, automação e integrações via API para investigação
-e Threat Hunting.
-</blockquote>
+> Laboratório de **Security Operations** utilizando Microsoft Sentinel, KQL, automação, APIs e workflows voltados para investigação e Threat Hunting.
 
 </td>
 
@@ -247,66 +227,41 @@ e Threat Hunting.
 
 <tr>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 👁️ [SecOps Observability](https://github.com/kaxcav0trace/k8s-wazuh-lab)
+
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Wazuh-00A9E5?style=flat-square&logo=wazuh&logoColor=white"/>
+<img src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/>
+
+</div>
 
 <br>
 
-<h3>
-  <a href="https://github.com/kaxcav0trace/k8s-wazuh-lab">
-    👁️ SecOps Observability
-  </a>
-</h3>
-
-<img
-  src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"
-/>
-
-<img
-  src="https://img.shields.io/badge/Wazuh-00A9E5?style=flat-square&logo=wazuh&logoColor=white"
-/>
-
-<img
-  src="https://img.shields.io/badge/Zabbix-D40000?style=flat-square&logo=zabbix&logoColor=white"
-/>
-
-<img
-  src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"
-/>
-
-<br><br>
-
-<blockquote align="left">
-Laboratório Kubernetes integrando Wazuh, Zabbix e Grafana
-para centralização de telemetria de segurança e infraestrutura.
-</blockquote>
+> Ambiente Kubernetes unificando **telemetria de segurança e infraestrutura** com Wazuh, Zabbix e Grafana.
 
 </td>
 
-<td width="50%" align="center" valign="top">
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 🎯 Detection Engineering Lab
+
+<img src="https://img.shields.io/badge/Elastic-ES%7CQL-005571?style=flat-square&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Sentinel-KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/MITRE-ATT%26CK-CB1B45?style=flat-square"/>
+<img src="https://img.shields.io/badge/Status-BUILDING-F59E0B?style=flat-square"/>
+
+</div>
 
 <br>
 
-<h3>🎯 Detection Engineering Lab</h3>
-
-<img
-  src="https://img.shields.io/badge/Elastic-ES%7CQL-005571?style=flat-square&logo=elastic&logoColor=white"
-/>
-
-<img
-  src="https://img.shields.io/badge/Sentinel-KQL-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"
-/>
-
-<img
-  src="https://img.shields.io/badge/MITRE-ATT%26CK-CB1B45?style=flat-square"
-/>
-
-<br><br>
-
-<blockquote align="left">
-Projeto em desenvolvimento para documentação de hipóteses,
-telemetria, regras de detecção, mapeamento MITRE ATT&amp;CK
-e análise de falsos positivos.
-</blockquote>
+> Laboratório dedicado a **telemetria, hipóteses de detecção, correlação, ES|QL, KQL, MITRE ATT&CK e Detection as Code**.
 
 </td>
 
@@ -314,67 +269,67 @@ e análise de falsos positivos.
 
 </table>
 
+<br><br>
+
+<!-- ========================================================= -->
+<!--                   DETECTION PIPELINE                      -->
+<!-- ========================================================= -->
+
+<h2 align="center">
+  🔬 Detection Pipeline
+</h2>
+
+```mermaid
+flowchart LR
+    A[Telemetry] --> B[Data Analysis]
+    B --> C[Detection Hypothesis]
+    C --> D[Query & Correlation]
+    D --> E[MITRE ATT&CK]
+    E --> F[Validation]
+    F --> G[Detection as Code]
+    G --> H[Alert]
+    H --> I[Investigation]
+    I --> J[Automation]
+```
+
+<br>
+
+<div align="center">
+
+`Telemetry → Behavior → Signal → Investigation → Response`
+
 </div>
 
 <br><br>
 
-<h2 align="center"> 🔬 Detection Workflow </h2>
+<!-- ========================================================= -->
+<!--                       INSIGHTS                             -->
+<!-- ========================================================= -->
+
+<h2 align="center">
+  🔮 GitHub Intelligence
+</h2>
 
 <div align="center">
 
-<pre>
-Telemetry
-    │
-    ▼
-Data Source Analysis
-    │
-    ▼
-Detection Hypothesis
-    │
-    ▼
-Query & Correlation
-    │
-    ▼
-MITRE ATT&CK Mapping
-    │
-    ▼
-Validation
-    │
-    ▼
-Detection as Code
-    │
-    ▼
-Alert → Investigation → Automation
-</pre>
-
-</div>
-
-<br><br>
-
-<h2 align="center"> 🔮 GitHub Insights </h2>
-
-<div align="center">
-
-<table border="0">
+<table>
 
 <tr>
 
-<td align="center">
+<td>
 
 <img
   src="https://github-readme-stats-gold-theta-94.vercel.app/api?username=kaxcav0trace&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400"
   height="175"
-  alt="GitHub Stats"
 />
 
 </td>
 
-<td align="center">
+<td>
 
 <img
   src="https://github-readme-stats-gold-theta-94.vercel.app/api/top-langs/?username=kaxcav0trace&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=86400&exclude_repo=github-readme-stats"
   height="175"
-  alt="Top Languages"
 />
 
 </td>
@@ -388,7 +343,6 @@ Alert → Investigation → Automation
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=kaxcav0trace&theme=tokyonight&hide_border=true&background=0D1117"
   height="175"
-  alt="GitHub Streak"
 />
 
 </div>
@@ -399,28 +353,33 @@ Alert → Investigation → Automation
 
 <img
   src="https://raw.githubusercontent.com/kaxcav0trace/kaxcav0trace/output/github-contribution-grid-snake-dark.svg"
+  width="85%"
   alt="Contribution Snake"
-  width="80%"
 />
 
 </div>
 
-<br>
+<br><br>
 
 <div align="center">
 
 <img
-  src="https://komarev.com/ghpvc/?username=kaxcav0trace&label=SYS.VIEWS&color=0D1117&style=for-the-badge"
-  alt="Visitor Count"
+  src="https://komarev.com/ghpvc/?username=kaxcav0trace&label=SYS.VIEWS&color=7AA2F7&style=for-the-badge"
 />
 
 </div>
 
 <br>
 
+<!-- ========================================================= -->
+<!--                        FOOTER                              -->
+<!-- ========================================================= -->
+
 <div align="center">
+
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&section=footer"
     width="100%"
   />
+
 </div>
